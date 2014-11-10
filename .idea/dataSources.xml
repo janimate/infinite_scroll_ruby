@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2305082712">
+    <data-source source="LOCAL" name="Rails infinite-scroll-master: development" uuid="937add8a-3cb0-426b-920f-da458d07aafb">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Programozas\rubybeadando\master\infinite-scroll-master\db\development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails infinite-scroll-master: test" uuid="e12b6f91-f271-4a6b-bcde-8b91a1593fd6">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Programozas\rubybeadando\master\infinite-scroll-master\db\test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails infinite-scroll-master: production" uuid="9301e92e-03f9-4cff-a82d-4ffe2b5fa6f3">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:db/production.postgresql</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

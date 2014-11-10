@@ -1,0 +1,20 @@
+== This demo was made as a school project. It uses the infinite scroll made by Christian Varga with a couple modifications. Please visit his blog (@ http://christianvarga.com) and if you please, donate him for his hard work. 
+
+== Installation
+
+Clone it:
+    git clone git@github.com:janimate/infinite_scroll_ruby.git
+
+
+    Bundle it:
+    cd infinite-scroll
+    bundle
+
+Set up the database:
+    rake db:setup
+
+Run it:
+    rails s
+
+View it:
+    http://localhost:3000/
